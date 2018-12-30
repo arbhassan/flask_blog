@@ -1,0 +1,1 @@
+A blog webapp written as a learning project for Python and Flask 
