@@ -1,3 +1,6 @@
 {
-    "python.pythonPath": "/home/hassan/.local/share/virtualenvs/flask_blog-E-rc5oBC/bin/python"
+  "python.pythonPath": "/home/hassan/.local/share/virtualenvs/flask_blog-E-rc5oBC/bin/python",
+  "python.linting.enabled": true,
+  "python.linting.pylintEnabled": false,
+  "python.linting.flake8Enabled": true
 }
